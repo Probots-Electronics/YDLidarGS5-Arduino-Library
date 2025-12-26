@@ -1,0 +1,15 @@
+#######################################
+# Class
+#######################################
+YDLidarGS5	KEYWORD1
+
+#######################################
+# Methods
+#######################################
+begin	KEYWORD2
+startScan	KEYWORD2
+stopScan	KEYWORD2
+getScanData	KEYWORD2
+getDeviceInfo	KEYWORD2
+getVersionInfo	KEYWORD2
+setEdge	KEYWORD2
